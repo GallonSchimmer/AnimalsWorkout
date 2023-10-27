@@ -43,6 +43,6 @@ A class representing a dog, which inherits from `AbstractAnimal` and implements 
 
 ## Contributors
 
-- [Your Name](https://github.com/GallonSchimmer/) - Initial work
+- https://github.com/GallonSchimmer/ - Initial work
 
 
