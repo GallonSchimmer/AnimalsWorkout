@@ -43,6 +43,6 @@ A class representing a dog, which inherits from `AbstractAnimal` and implements 
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername) - Initial work
+- [Your Name](https://github.com/GallonSchimmer/) - Initial work
 
-Feel free to update this README as you add more features or make changes to your AnimalsWorkout project.
+
